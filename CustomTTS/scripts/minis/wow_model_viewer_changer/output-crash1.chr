@@ -1,0 +1,104 @@
+<SavedCharacter version="1.0">
+    <model>
+        <file name="character/human/male/humanfemale_hd.m2"></file>
+        <CharDetails>
+            <skinColor value="8"></skinColor>
+            <faceType value="6"></faceType>
+            <hairColor value="3"></hairColor>
+            <hairStyle value="8"></hairStyle>
+            <facialHair value="2"></facialHair>
+            <eyeGlowType value="1"></eyeGlowType>
+            <showUnderwear value="1"></showUnderwear>
+            <showEars value="1"></showEars>
+            <showHair value="1"></showHair>
+            <showFacialHair value="1"></showFacialHair>
+            <showFeet value="0"></showFeet>
+        </CharDetails>
+    </model>
+    <equipment>
+        <item>
+            <slot value="4"></slot>
+            <id value="53879"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+        <item>
+            <slot value="11"></slot>
+            <id value="0"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+        <item>
+            <slot value="0"></slot>
+            <id value="0"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+        <item>
+            <slot value="5"></slot>
+            <id value="15157"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+        <item>
+            <slot value="12"></slot>
+            <id value="0"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+        <item>
+            <slot value="1"></slot>
+            <id value="0"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+        <item>
+            <slot value="2"></slot>
+            <id value="195"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+        <item>
+            <slot value="3"></slot>
+            <id value="0"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+        <item>
+            <slot value="6"></slot>
+            <id value="0"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+        <item>
+            <slot value="7"></slot>
+            <id value="0"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+        <item>
+            <slot value="8"></slot>
+            <id value="711"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+        <item>
+            <slot value="9"></slot>
+            <id value="0"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+        <item>
+            <slot value="10"></slot>
+            <id value="0"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+        <item>
+            <slot value="13"></slot>
+            <id value="0"></id>
+            <displayId value="-1"></displayId>
+            <level value="0"></level>
+        </item>
+    </equipment>
+</SavedCharacter>
